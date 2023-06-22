@@ -1,0 +1,126 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Arqueológico" },
+      { "idCampo": "3", "valor": "A-52452" },
+      { "idCampo": "4", "valor": "30" },
+      { "idCampo": "5", "valor": "58" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Ficha básica",
+    "campos": [
+      { "idCampo": "6", "valor": "79" },
+      { "idCampo": "469", "valor": "36.P.J.817" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [
+      { "idCampo": "7", "valor": "84" },
+      { "idCampo": "483", "valor": "Propio" },
+      { "idCampo": "8", "valor": "108" },
+      { "idCampo": "9", "valor": "114" },
+      {
+        "idCampo": "471",
+        "valor": "Vasija miniatura, barro, modelado, alisado, naranja."
+      },
+      {
+        "idCampo": "472",
+        "valor": "TGO. T II CONS B. ERTR. 1-W ESCOMBRO  TGO.B.V. 332"
+      },
+      { "idCampo": "746", "valor": "Vasija" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Tipo de objeto",
+    "campos": [
+      { "idCampo": "740", "valor": "152802" },
+      { "idCampo": "741", "valor": "Uso cotidiano " },
+      { "idCampo": "723", "valor": "152335" },
+      { "idCampo": "724", "valor": "152343" },
+      { "idCampo": "56", "valor": "342" },
+      { "idCampo": "493", "valor": "Alisado." },
+      { "idCampo": "58", "valor": "365" },
+      { "idCampo": "63", "valor": "399" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Forma",
+    "campos": [
+      { "idCampo": "43", "valor": "151734" },
+      { "idCampo": "495", "valor": "Paredes curvo convergentes." },
+      { "idCampo": "44", "valor": "310" },
+      { "idCampo": "45", "valor": "315" },
+      { "idCampo": "46", "valor": "319" },
+      { "idCampo": "47", "valor": "322" },
+      { "idCampo": "48", "valor": "330" },
+      {
+        "idCampo": "500",
+        "valor": "Borde directo redondeado, dos asas horizontales sobre el cuerpo."
+      }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [
+      { "idCampo": "66", "valor": "1121" },
+      { "idCampo": "67", "valor": "1136" },
+      { "idCampo": "68", "valor": "150118" },
+      { "idCampo": "69", "valor": "72422" },
+      { "idCampo": "70", "valor": "421" },
+      { "idCampo": "71", "valor": "Teotenango" },
+      { "idCampo": "73", "valor": "429" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Dimensiones",
+    "campos": [
+      { "idCampo": "49", "valor": "5.4 cm" },
+      { "idCampo": "53", "valor": "6.0 cm" },
+      {
+        "idCampo": "95",
+        "valor": "Altura de cuello 10.0 cm y altura de cuerpo 4.4 cm "
+      }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Observaciones",
+    "campos": [{ "idCampo": "104", "valor": "Olla, naranja." }],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      { "idCampo": "74", "valor": "432" },
+      { "idCampo": "76", "valor": "437" },
+      {
+        "idCampo": "77",
+        "valor": "Incompleta: le falta parte del cuello y el borde."
+      },
+      { "idCampo": "474", "valor": "151721" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Objetos digitales",
+    "campos": [],
+    "archivos": ["uploads/regFiles/REG16-1596673350.17721596673820.3054.jpeg"]
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [
+      { "idCampo": "80", "valor": "FLOR ALCÁNTARA" },
+      { "idCampo": "81", "valor": "ANTROP. CARLOS FUENTES" }
+    ],
+    "archivos": ""
+  }
+]

@@ -1,0 +1,128 @@
+/* Estilos generales para el modal */
+.modal-content {
+  border-radius: 0;
+}
+
+.modal-header {
+  background-color: #f8f9fa;
+  border-bottom: none;
+}
+
+.modal-title {
+  font-size: 1.25rem;
+}
+
+.modal-body {
+  padding: 1.5rem;
+}
+
+.modal-footer {
+  border-top: none;
+}
+
+/* Estilos para la imagen */
+.modal-body img {
+  display: block;
+  margin-bottom: 1rem;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Estilos para los párrafos de información */
+.modal-body p {
+  margin-bottom: 1rem;
+}
+
+.modal-body strong {
+  font-weight: bold;
+}
+
+/* Estilos para el botón de cerrar */
+.modal-footer .btn-secondary {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.modal-footer .btn-secondary:hover,
+.modal-footer .btn-secondary:focus {
+  background-color: #5a6268;
+  color: #fff;
+}
+
+.modal-footer .btn-secondary:focus {
+  box-shadow: none;
+}
+
+.modal-footer .btn-secondary:active {
+  background-color: #424a52;
+  color: #fff;
+  box-shadow: none;
+  transform: translateY(1px);
+}
+
+/* Estilos para el select */
+
+/* Estilos para el select */
+.combo {
+  position: relative;
+  display: inline-block;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 6px 12px;
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #333;
+  cursor: pointer;
+  outline: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  overflow: hidden; /* Para ocultar el degradado en la parte inferior */
+}
+
+/* Estilos para la flecha */
+.combo::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid #555;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+/* Estilos para el desplegable */
+.combo select {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #333;
+  outline: none;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s, visibility 0.3s;
+}
+
+/* Estilos para el efecto degradado */
+.combo:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 50%;
+  background-image: linear-gradient(to right, #ccc, #fff);
+  z-index: -1;
+}

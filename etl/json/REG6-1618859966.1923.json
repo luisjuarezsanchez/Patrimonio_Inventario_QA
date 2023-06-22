@@ -1,0 +1,40 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Virreinato" },
+      { "idCampo": "3", "valor": "A-35479" },
+      { "idCampo": "4", "valor": "41" },
+      { "idCampo": "5", "valor": "58" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [{ "idCampo": "8", "valor": "113" }],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [
+      { "idCampo": "66", "valor": "1121" },
+      { "idCampo": "67", "valor": "1136" },
+      { "idCampo": "68", "valor": "150145" },
+      { "idCampo": "69", "valor": "74586" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      { "idCampo": "172", "valor": "618" },
+      { "idCampo": "174", "valor": "621" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Objetos digitales",
+    "campos": [],
+    "archivos": ["uploads/regFiles/REG6-1618859966.19231621447843.73084.jpeg"]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Arqueológico"},
+      { "idCampo": "3", "valor": "A - 36230" },
+      { "idCampo": "4", "valor": "51" },
+      { "idCampo": "5", "valor": "58" } 
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Ficha básica",
+    "campos": [
+      { "idCampo": "6", "valor": "76" },
+      { "idCampo": "470", "valor": "10-10" },
+      { "idCampo": "658", "valor": "9259" },
+      { "idCampo": "743", "valor": "10-109259" },
+      { "idCampo": "744", "valor": "10-109259" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [
+      { "idCampo": "7", "valor": "84" },
+      { "idCampo": "483", "valor": "Préstamo I.N.A.H." },
+      { "idCampo": "8", "valor": "92" },
+      { "idCampo": "9", "valor": "114" },
+      {
+        "idCampo": "471",
+        "valor": "Tambor de madera cilíndrico con soportes almenados. Tallado con danza de guerreros jaguar y águila alrededor de la deidad \"Xochipilli-Macuilxochitl\"  y el numeral \"nahui-ollin\"."
+      },
+      { "idCampo": "472", "valor": "Traslado del museo regional de Toluca." },
+      { "idCampo": "746", "valor": "Tlalpanhuehuetl." }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Tipo de objeto",
+    "campos": [
+      { "idCampo": "740", "valor": "152799" },
+      { "idCampo": "736", "valor": "152749" },
+      { "idCampo": "41", "valor": "151731" },
+      {
+        "idCampo": "490",
+        "valor": "Figuras zoomorfas, una figura antropomorfa y los signos nahuas de:\"nahui-ollin\", cuchillo de piedra, agua, bandera, adorno de plumas, canto y escudo con dardos."
+      },
+      {
+        "idCampo": "685",
+        "valor": "Danza de guerreros jaguar y águila alrededor de la deidad \"Xochipilli-Macuilxochitl\"  y el numeral \"nahui-ollin\"."
+      },
+      { "idCampo": "723", "valor": "152341" },
+      {
+        "idCampo": "491",
+        "valor": "Madera de Tepehuaje (Lysiloma acapulcensis)."
+      },
+      { "idCampo": "56", "valor": "344" },
+      { "idCampo": "493", "valor": "Bajo relieve " },
+      { "idCampo": "58", "valor": "365" },
+      {
+        "idCampo": "61",
+        "valor": "Relieves de figuras zoomorfas, una figura antropomorfa y los signos nahuas de:\"nahui-ollin\", cuchillo de piedra, agua, bandera, adorno de plumas, canto y escudo con dardos."
+      },
+      { "idCampo": "60", "valor": "377" },
+      {
+        "idCampo": "684",
+        "valor": "En la parte superior se encuentra los relieves de la deidad \"Xochipilli-Macuilxochitl\" y el numeral \"nahui-ollin\" alternados con los relieves de un guerrero águila y un guerrero jaguar. Debajo se encuentra una cenefa de escudos que limita los soportes almenados. Dos soportes tienen el relieve de un guerrero jaguar y el tercero tiene un guerrero águila."
+      },
+      { "idCampo": "62", "valor": "393" },
+      { "idCampo": "63", "valor": "399" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Forma",
+    "campos": [
+      { "idCampo": "43", "valor": "151734" },
+      { "idCampo": "495", "valor": "Cilíndrico" },
+      { "idCampo": "47", "valor": "322" },
+      { "idCampo": "48", "valor": "328" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [
+      { "idCampo": "66", "valor": "1121" },
+      { "idCampo": "67", "valor": "1136" },
+      { "idCampo": "68", "valor": "150085" },
+      { "idCampo": "70", "valor": "421" },
+      { "idCampo": "73", "valor": "152177" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Dimensiones",
+    "campos": [
+      { "idCampo": "49", "valor": "96.0" },
+      { "idCampo": "53", "valor": "42.0 " }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Observaciones",
+    "campos": [
+      {
+        "idCampo": "473",
+        "valor": "Objeto ritual asociado con los sacrificios de los prisioneros capturados durante la guerra y que se llevaba a cabo en la fiesta \"Desollamiento de hombres ( Tlacaxipehualiztli)\"."
+      },
+      {
+        "idCampo": "104",
+        "valor": "Tiene una pequeña muesca en uno de sus soportes, presenta raspaduras en la parte superior por uso. "
+      },
+      {
+        "idCampo": "660",
+        "valor": "2002, exposición de arte precolombino en el Centro de exposiciones Nieuwe Kerk en Amsterdam, Holanda. 2002, exposición de arte precolombino en el Museo Hermitage, de San Petesburgo, Rusia. 2009 exposición \"Moctezuma Aztec Ruler\" en el Museo Británico en Londres, Inglaterra. 2014 exposición \"Itinerario de Cortés. Gloria y derrota\". en  el Centro de exposiciones Arte del Canal de Isabel II\" en Madrid, España. 2017 exposición \"Escudo nacional. Flora, fauna y biodiversidad\" en el Museo Nacional de Antropología e Historia en la Ciudad de México, México."
+      },
+      { "idCampo": "475", "valor": "1 600 000 dólares (hecho en 2002). " }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      { "idCampo": "124", "valor": "Pieza completa sin erosión." },
+      { "idCampo": "74", "valor": "432" },
+      { "idCampo": "76", "valor": "436" },
+      { "idCampo": "474", "valor": "151721" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Objetos digitales",
+    "campos": [],
+    "archivos": ["uploads/regFiles/REG16-1627672141.50261627672817.73894.jpeg","a"]
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [
+      { "idCampo": "80", "valor": "Luis Fernando López Palacios." },
+      { "idCampo": "81", "valor": "Eduardo Andrés Escalante Carrillo." }
+    ],
+    "archivos": ""
+  }
+]

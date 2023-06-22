@@ -1,0 +1,86 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Arqueológico" },
+      { "idCampo": "3", "valor": "I-10060 (6-11) " },
+      { "idCampo": "4", "valor": "30" },
+      { "idCampo": "5", "valor": "58" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [
+      { "idCampo": "7", "valor": "84" },
+      {
+        "idCampo": "483",
+        "valor": "Excavación, proyecto Teotenango 1970-1975"
+      },
+      { "idCampo": "8", "valor": "108" },
+      { "idCampo": "9", "valor": "152159" },
+      {
+        "idCampo": "471",
+        "valor": "Lote de figurillas de barro, técnica de manufactura modelado y presenta tiene una perforación cilíndrica. Es una pierna y parte de un pie "
+      },
+      { "idCampo": "472", "valor": "CONJ.A-SECC.C-ESCOMBRO-18-IV-72" },
+      { "idCampo": "746", "valor": "Lote de figurillas " }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Tipo de objeto",
+    "campos": [
+      { "idCampo": "740", "valor": "152794" },
+      { "idCampo": "731", "valor": "152543" },
+      { "idCampo": "41", "valor": "298" },
+      { "idCampo": "723", "valor": "152335" },
+      { "idCampo": "724", "valor": "152343" },
+      { "idCampo": "56", "valor": "342" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [
+      { "idCampo": "66", "valor": "1121" },
+      { "idCampo": "67", "valor": "1136" },
+      { "idCampo": "68", "valor": "150118" },
+      { "idCampo": "69", "valor": "72422" },
+      { "idCampo": "70", "valor": "421" },
+      { "idCampo": "71", "valor": "Teotenango" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Dimensiones",
+    "campos": [
+      { "idCampo": "49", "valor": "5.0 cm " },
+      { "idCampo": "52", "valor": "2.5 cm " },
+      { "idCampo": "51", "valor": "3.5 cm " }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Observaciones",
+    "campos": [{ "idCampo": "473", "valor": "Es una pierna y parte del pie " }],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      { "idCampo": "74", "valor": "431" },
+      { "idCampo": "76", "valor": "436" },
+      { "idCampo": "474", "valor": "151721" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [
+      { "idCampo": "80", "valor": "Carlos Fuentes Hernández " },
+      { "idCampo": "81", "valor": "Carlos Fuentes Hernández " }
+    ],
+    "archivos": ""
+  }
+]

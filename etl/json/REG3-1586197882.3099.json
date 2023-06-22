@@ -1,0 +1,125 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Arqueológico" },
+      { "idCampo": "3", "valor": "10108165" },
+      { "idCampo": "4", "valor": "54" },
+      { "idCampo": "5", "valor": "58" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Ficha básica",
+    "campos": [{ "idCampo": "470", "valor": "REG 35 PJ 0678/A-18193" }],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [
+      { "idCampo": "7", "valor": "81" },
+      { "idCampo": "8", "valor": "112" },
+      { "idCampo": "9", "valor": "114" },
+      {
+        "idCampo": "471",
+        "valor": "Olla con motivos geométricos, borde evertido redondeado, soporte trípode botón, pulimento zonal de 3 bandas horizontales"
+      },
+      {
+        "idCampo": "472",
+        "valor": "Traslado del museo de Antropología e Historia"
+      }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Tipo de objeto",
+    "campos": [
+      { "idCampo": "12", "valor": "129" },
+      { "idCampo": "41", "valor": "151731" },
+      { "idCampo": "490", "valor": "Motivos Geométricos " },
+      { "idCampo": "685", "valor": "Motivos Geométricos" },
+      { "idCampo": "54", "valor": "331" },
+      { "idCampo": "56", "valor": "342" },
+      { "idCampo": "58", "valor": "358" },
+      { "idCampo": "61", "valor": " pulimento zonal de 3 bandas horizontales" },
+      { "idCampo": "60", "valor": "377" },
+      {
+        "idCampo": "684",
+        "valor": " pulimento zonal de 3 bandas horizontales"
+      },
+      { "idCampo": "62", "valor": "392" },
+      { "idCampo": "63", "valor": "397" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Forma",
+    "campos": [
+      { "idCampo": "43", "valor": "303" },
+      { "idCampo": "44", "valor": "310" },
+      { "idCampo": "45", "valor": "315" },
+      { "idCampo": "46", "valor": "321" },
+      { "idCampo": "498", "valor": "recto divergente" },
+      { "idCampo": "47", "valor": "322" },
+      { "idCampo": "48", "valor": "330" },
+      {
+        "idCampo": "500",
+        "valor": "Olla con motivos geométricos, borde evertido redondeado, soporte trípode botón"
+      }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [
+      { "idCampo": "66", "valor": "1121" },
+      { "idCampo": "67", "valor": "1136" },
+      { "idCampo": "68", "valor": "150134" },
+      { "idCampo": "70", "valor": "421" },
+      { "idCampo": "71", "valor": "Calixtlahuaca" },
+      { "idCampo": "73", "valor": "424" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Dimensiones",
+    "campos": [
+      { "idCampo": "49", "valor": "13.5" },
+      { "idCampo": "53", "valor": "13.5" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Observaciones",
+    "campos": [
+      { "idCampo": "473", "valor": "Pieza completa erosionada" },
+      {
+        "idCampo": "104",
+        "valor": "Olla con motivos geométricos, borde evertido redondeado, soporte trípode botón, pulimento zonal de 3 bandas horizontales"
+      }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      { "idCampo": "124", "valor": "Pieza completa erosionada" },
+      { "idCampo": "74", "valor": "432" },
+      { "idCampo": "76", "valor": "436" },
+      { "idCampo": "77", "valor": "Pieza completa erosionada" },
+      { "idCampo": "474", "valor": "151721" },
+      { "idCampo": "127", "valor": "si" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Objetos digitales",
+    "campos": [],
+    "archivos": ["uploads/regFiles/REG3-1586197882.30991586199546.12624.jpeg"]
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [{ "idCampo": "80", "valor": "Norma Leticia Rodriguez Garcia" }],
+    "archivos": ""
+  }
+]

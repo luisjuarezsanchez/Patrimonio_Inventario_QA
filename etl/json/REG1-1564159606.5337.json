@@ -1,0 +1,71 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Prehistórico" },
+      { "idCampo": "3", "valor": "" },
+      { "idCampo": "4", "valor": "34" },
+      { "idCampo": "5", "valor": "0" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Datos generales",
+    "campos": [
+      { "idCampo": "82", "valor": "" },
+      { "idCampo": "83", "valor": "" },
+      { "idCampo": "84", "valor": "" },
+      { "idCampo": "85", "valor": "" },
+      { "idCampo": "86", "valor": "" },
+      { "idCampo": "87", "valor": "0" },
+      { "idCampo": "88", "valor": "" },
+      { "idCampo": "89", "valor": "" },
+      { "idCampo": "90", "valor": "" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Medidas",
+    "campos": [
+      { "idCampo": "91", "valor": "" },
+      { "idCampo": "92", "valor": "" },
+      { "idCampo": "93", "valor": "" },
+      { "idCampo": "94", "valor": "" },
+      { "idCampo": "95", "valor": "" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Localización actual",
+    "campos": [
+      { "idCampo": "96", "valor": "" },
+      { "idCampo": "97", "valor": "" },
+      { "idCampo": "98", "valor": "0" },
+      { "idCampo": "99", "valor": "" }, 
+      { "idCampo": "100", "valor": "" },
+      { "idCampo": "101", "valor": "" },
+      { "idCampo": "102", "valor": "0" },
+      { "idCampo": "103", "valor": "" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Observaciones",
+    "campos": [
+      { "idCampo": "104", "valor": "" },
+      { "idCampo": "105", "valor": "" },
+      { "idCampo": "106", "valor": "" },
+      { "idCampo": "107", "valor": "0" },
+      { "idCampo": "108", "valor": "0" }
+    ],
+    "archivos": []
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [
+      { "idCampo": "109", "valor": "" },
+      { "idCampo": "110", "valor": "" }
+    ],
+    "archivos": ""
+  }
+]

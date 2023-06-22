@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.filter-container {
+  display: inline-block;
+  vertical-align: top;
+  width: calc(95% / 3);
+  padding: 10px;
+  box-sizing: border-box;
+  padding-left: 10px;
+}
+
+.filter {
+  background-color: #dddddd;
+  border: 1px solid #ccc;
+  padding: 10px;
+
+  /*margin-left: 10px;*/
+}
+
+.filter h3 {
+  margin: 0;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.filter label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Estilos adicionales para resaltar la selección */
+.filter input[type="radio"]:checked + label {
+  font-weight: bold;
+}
+
+.filter input[type="radio"]:checked + label:before {
+  content: "\2022";
+  margin-right: 5px;
+}
+
+.filter input[type="radio"]:checked + label::after {
+  content: "";
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background-color: #000;
+  border-radius: 50%;
+  margin-left: 5px;
+}
+
+.card-container {
+  display: flex;
+  overflow-x: auto; /* Agrega una barra de desplazamiento horizontal si los elementos desbordan el contenedor */
+}
+
+.card {
+  flex: 0 0 auto; /* Evita que las tarjetas se estiren para ajustarse al contenedor */
+  margin-right: 10px; /* Espacio entre las tarjetas */
+}
+
+@media (max-width: 576px) {
+  .card-container {
+    overflow-x: auto; /* Agrega una barra de desplazamiento horizontal en dispositivos móviles */
+  }
+
+  .card {
+    margin-right: 5px; /* Espacio entre las tarjetas en dispositivos móviles */
+  }
+}
+
+.select-verde {
+  color: #ffffff;
+  background-color: #006847;
+}
+
+.select-blanco {
+  color: #000000; /* Cambia el color del texto dentro del select a blanco */
+  background-color: #ffffff;
+}
+
+.select-rojo {
+  color: #ffffff; /* Cambia el color del texto dentro del select a blanco */
+  background-color: #ce1126; /* Cambia el color de fondo del select a verde */
+}
+
+.refresh-button {
+  color: #000000; /* Cambia el color del texto dentro del select a blanco */
+  background-color: #d5f7eb; /* Cambia el color de fondo del select a verde */
+  border: 1px solid #000000; /* Agrega un borde negro al botón */
+}
+
+.refresh-button:hover {
+  color: #000000; /* Cambia el color del texto dentro del select a blanco */
+  background-color: #d5f7da; /* Cambia el color de fondo del select a verde */
+  border: 2px solid #000000; /* Agrega un borde negro al botón */
+}

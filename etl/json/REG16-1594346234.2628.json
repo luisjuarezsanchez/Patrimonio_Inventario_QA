@@ -1,0 +1,101 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Arqueológico" },
+      { "idCampo": "3", "valor": "B- 14262" },
+      { "idCampo": "4", "valor": "43" },
+      { "idCampo": "5", "valor": "58" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Ficha básica",
+    "campos": [
+      { "idCampo": "6", "valor": "76" },
+      { "idCampo": "470", "valor": "REG1320 PJ 0484" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [
+      { "idCampo": "7", "valor": "82" },
+      { "idCampo": "8", "valor": "100" },
+      { "idCampo": "9", "valor": "152159" },
+      {
+        "idCampo": "471",
+        "valor": "Figurilla antropomorfa, cuerpo, personaje con vestimenta de la época, la mano derecha en la cintura"
+      },
+      { "idCampo": "746", "valor": "Figurilla" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Tipo de objeto",
+    "campos": [
+      { "idCampo": "740", "valor": "152794" },
+      { "idCampo": "731", "valor": "152543" },
+      { "idCampo": "41", "valor": "298" },
+      { "idCampo": "685", "valor": "cuerpo, personaje" },
+      { "idCampo": "723", "valor": "152335" },
+      { "idCampo": "724", "valor": "152343" },
+      { "idCampo": "56", "valor": "343" },
+      { "idCampo": "58", "valor": "357" },
+      {
+        "idCampo": "61",
+        "valor": "pintada (restos de engobe blanco), pulido, toda la pieza"
+      },
+      { "idCampo": "62", "valor": "151732" },
+      { "idCampo": "487", "valor": "Valle de Toluca" },
+      { "idCampo": "63", "valor": "151733" },
+      { "idCampo": "488", "valor": "colonial" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [
+      { "idCampo": "66", "valor": "1121" },
+      { "idCampo": "67", "valor": "1136" },
+      { "idCampo": "68", "valor": "150093" },
+      { "idCampo": "70", "valor": "421" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Dimensiones",
+    "campos": [
+      { "idCampo": "49", "valor": "3.7 cm" },
+      { "idCampo": "50", "valor": "1.8 cm" },
+      { "idCampo": "51", "valor": "3.5 cm" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      {
+        "idCampo": "124",
+        "valor": "Rota del cuello y de las piernas, erosionada"
+      },
+      { "idCampo": "74", "valor": "432" },
+      { "idCampo": "76", "valor": "437" },
+      { "idCampo": "474", "valor": "151721" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Objetos digitales",
+    "campos": [],
+    "archivos": ["uploads/regFiles/REG16-1594346234.26281594346660.45464.jpeg"]
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [
+      { "idCampo": "80", "valor": "Nahid Arredondo" },
+      { "idCampo": "81", "valor": "Nahid Arredondo" }
+    ],
+    "archivos": ""
+  }
+]

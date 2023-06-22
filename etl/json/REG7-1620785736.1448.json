@@ -1,0 +1,136 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Arte Moderno y Contemporáneo" },
+      { "idCampo": "3", "valor": "I–11769" },
+      { "idCampo": "4", "valor": "31" },
+      { "idCampo": "5", "valor": "64" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [
+      { "idCampo": "7", "valor": "82" },
+      { "idCampo": "8", "valor": "96" },
+      { "idCampo": "432", "valor": "152156" },
+      {
+        "idCampo": "471",
+        "valor": "En un paisaje montañoso, se aprecia un tren que va de izquierda a derecha. Enfrente de él, se aprecia un hombre recostado sobre un costal mientras es atendido por una mujer que le está poniendo un paño sobre su cabeza. Atrás de la mujer, hay tres rifles que están haciendo un tripié. "
+      },
+      {
+        "idCampo": "472",
+        "valor": "Es una de un lote de 200 estampas que fueron donadas por el Taller de Gráfica Popular (TGP) en 1992 bajo la dirección del maestro Jesús Álvarez Amaya. El Taller de Gráfica Popular es un colectivo de grabadores fundado en México en 1937 por los artistas Leopoldo Méndez, Pablo O'Higgins, y Luis Arenal Bastar, tras la disolución de la Liga de Escritores y Artistas Revolucionarios (LEAR), un grupo de artistas que apoyaba las causas de la Revolución Mexicana y es considerado patrimonio cultural de México. Su principal objetivo era utilizar el arte para fomentar sus causas sociales revolucionarias. El taller se volvió una base de actividad política y gran desempeño artístico. Además de sus miembros mexicanos, atrajo muchos artistas extranjeros a colaborar. Se especializó en grabados en linóleo y en madera. Produjo pósteres, panfletos, banderas y ediciones de portafolio. El arte apoyaba causas como el antimilitarismo, la unión obrera, y la oposición al fascismo. El arte era comúnmente realizado de manera colaborativa. Además, el taller adoptó la práctica anticomercial de no numerar las impresiones."
+      }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Características del objeto",
+    "campos": [{ "idCampo": "189", "valor": "633" }],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Datos técnicos",
+    "campos": [
+      { "idCampo": "193", "valor": "Alfredo Zalce" },
+      { "idCampo": "194", "valor": "La soldadera" },
+      { "idCampo": "195", "valor": "1938" },
+      { "idCampo": "200", "valor": "680" },
+      { "idCampo": "711", "valor": "S/R" },
+      { "idCampo": "204", "valor": "703" },
+      { "idCampo": "205", "valor": "710" },
+      { "idCampo": "206", "valor": "717" },
+      { "idCampo": "208", "valor": "730" },
+      {
+        "idCampo": "209",
+        "valor": "Donación del Taller de Gráfica Popular en 1992"
+      },
+      { "idCampo": "210", "valor": "Siglo XX" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [
+      { "idCampo": "66", "valor": "1121" },
+      { "idCampo": "67", "valor": "1130" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Dimensiones",
+    "campos": [
+      { "idCampo": "211", "valor": "25" },
+      { "idCampo": "212", "valor": "55" },
+      { "idCampo": "215", "valor": "0.05" },
+      { "idCampo": "94", "valor": "13" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Observaciones",
+    "campos": [
+      { "idCampo": "473", "valor": "La obra se encuentra sin enmarcar." },
+      {
+        "idCampo": "104",
+        "valor": "Protegida en un planero forrado con papel secante 100% libre de ácidos junto con otras obras de su misma colección (TGP) y formato."
+      },
+      {
+        "idCampo": "660",
+        "valor": "Fue exhibida durante la exposición Taller de Gráfica Popular en el Museo de la Estampa, en 1992 en las instalaciones del mismo."
+      },
+      { "idCampo": "475", "valor": "$ 1'000.00 " }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      {
+        "idCampo": "124",
+        "valor": "El estado de conservación de la obra es estable."
+      },
+      { "idCampo": "225", "valor": "749" },
+      { "idCampo": "593", "valor": "Estable" },
+      { "idCampo": "227", "valor": "751" },
+      {
+        "idCampo": "77",
+        "valor": "La pieza se mantiene libre de contaminación microbiológica y oscilaciones de temperatura y humedad. Para su almacenamiento, montaje, exposición y enmarcado se utilizan guantes de algodón, carpetas o soportes rígidos y material con pH neutro. No es exhibida por un periodo mayor de 90 días."
+      },
+      { "idCampo": "474", "valor": "151721" },
+      { "idCampo": "127", "valor": "No" },
+      { "idCampo": "229", "valor": "753" },
+      { "idCampo": "230", "valor": "Intervención preventiva." }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Restricciones de movilidad",
+    "campos": [
+      { "idCampo": "237", "valor": "No" },
+      {
+        "idCampo": "238",
+        "valor": "Colocar respaldo y marialuisa de material 100% libre de ácidos."
+      },
+      { "idCampo": "239", "valor": "No" },
+      { "idCampo": "240", "valor": "Embalaje adecuado" },
+      { "idCampo": "241", "valor": "Transporte seguro." }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Objetos digitales",
+    "campos": [],
+    "archivos": ["uploads/regFiles/REG7-1620785736.14481620786018.14954.jpeg"]
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [
+      { "idCampo": "242", "valor": "Rosa Beltrán Nájera." },
+      { "idCampo": "243", "valor": "Alejandra Abraham Jarquín." }
+    ],
+    "archivos": ""
+  }
+]

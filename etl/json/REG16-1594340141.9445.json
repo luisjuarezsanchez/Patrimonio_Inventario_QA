@@ -1,0 +1,89 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Arqueológico" },
+      { "idCampo": "3", "valor": "A-67867" },
+      { "idCampo": "4", "valor": "30" },
+      { "idCampo": "5", "valor": "58" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [
+      { "idCampo": "7", "valor": "84" },
+      {
+        "idCampo": "483",
+        "valor": "excavación, proyecto Teotenango 1970-1975"
+      },
+      { "idCampo": "8", "valor": "108" },
+      { "idCampo": "9", "valor": "152158" },
+      { 
+        "idCampo": "471",
+        "valor": "Punta de proyectil, cuerpo aplanado, bordes convexos pedunculo de base plana y bordes rectos divergentes "
+      },
+      { "idCampo": "472", "valor": "PIA 20 " },
+      { "idCampo": "746", "valor": "Punta de proyectil" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Tipo de objeto",
+    "campos": [
+      { "idCampo": "740", "valor": "152795" },
+      { "idCampo": "732", "valor": "152634" },
+      {
+        "idCampo": "685",
+        "valor": "cuerpo aplanado, bordes convexos pedunculo de base plana y bordes rectos divergentes "
+      },
+      { "idCampo": "723", "valor": "152336" },
+      { "idCampo": "725", "valor": "152386" },
+      { "idCampo": "56", "valor": "346" },
+      { "idCampo": "492", "valor": "percusión" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [
+      { "idCampo": "66", "valor": "1121" },
+      { "idCampo": "67", "valor": "1136" },
+      { "idCampo": "68", "valor": "150118" },
+      { "idCampo": "69", "valor": "72422" },
+      { "idCampo": "70", "valor": "421" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Dimensiones",
+    "campos": [
+      { "idCampo": "49", "valor": "3.5" },
+      { "idCampo": "52", "valor": ".6" },
+      { "idCampo": "51", "valor": "2.6" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      { "idCampo": "74", "valor": "432" },
+      { "idCampo": "76", "valor": "437" },
+      { "idCampo": "474", "valor": "151721" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Objetos digitales",
+    "campos": [],
+    "archivos": ["uploads/regFiles/REG16-1594340141.94451594340541.83174.jpeg"]
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [
+      { "idCampo": "80", "valor": "Benjamín López Gómez" },
+      { "idCampo": "81", "valor": "Carlos Fuentes Hernández " }
+    ],
+    "archivos": ""
+  }
+]

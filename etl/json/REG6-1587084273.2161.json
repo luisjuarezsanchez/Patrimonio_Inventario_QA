@@ -1,0 +1,71 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Virreinato" },
+      { "idCampo": "3", "valor": "A-18665" },
+      { "idCampo": "4", "valor": "56" },
+      { "idCampo": "5", "valor": "71" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Ficha básica",
+    "campos": [{ "idCampo": "148", "valor": "224" }],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [
+      { "idCampo": "8", "valor": "89" },
+      { "idCampo": "432", "valor": "152156" },
+      { "idCampo": "471", "valor": "Jarra con asa fundida en latón" },
+      { "idCampo": "152", "valor": "Jarra " },
+      { "idCampo": "151", "valor": "Anónimo" },
+      { "idCampo": "153", "valor": "Siglo XVIII" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Tipo de obra",
+    "campos": [
+      { "idCampo": "132", "valor": "151743" },
+      { "idCampo": "573", "valor": "Objeto decorativo" },
+      { "idCampo": "155", "valor": "Fundido" },
+      { "idCampo": "159", "valor": "Virreinato" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Dimensiones",
+    "campos": [
+      { "idCampo": "160", "valor": "24" },
+      { "idCampo": "161", "valor": "18" },
+      { "idCampo": "162", "valor": "14" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      { "idCampo": "172", "valor": "616" },
+      { "idCampo": "174", "valor": "621" },
+      { "idCampo": "474", "valor": "151721" },
+      { "idCampo": "176", "valor": "623" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Objetos digitales",
+    "campos": [],
+    "archivos": ["uploads/regFiles/REG6-1587084273.21611591228325.01734.jpeg"]
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [
+      { "idCampo": "187", "valor": "Alejandra Angulo Gutiérrez" },
+      { "idCampo": "188", "valor": " Lourdes Malagón Abín" }
+    ],
+    "archivos": ""
+  }
+]

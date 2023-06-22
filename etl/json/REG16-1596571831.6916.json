@@ -1,0 +1,98 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Arqueológico" },
+      { "idCampo": "3", "valor": "I-10820" },
+      { "idCampo": "4", "valor": "53" },
+      { "idCampo": "5", "valor": "58" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Ficha básica",
+    "campos": [
+      { "idCampo": "6", "valor": "79" },
+      { "idCampo": "469", "valor": "Volumen lV" },
+      { "idCampo": "743", "valor": "REG433 PJ 0451" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [
+      { "idCampo": "7", "valor": "82" },
+      { "idCampo": "8", "valor": "87" },
+      { "idCampo": "9", "valor": "116" },
+      {
+        "idCampo": "485",
+        "valor": "Exposición permanente y deposito de resguardo"
+      }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Tipo de objeto",
+    "campos": [
+      { "idCampo": "740", "valor": "152797" },
+      { "idCampo": "734", "valor": "152663" },
+      { "idCampo": "41", "valor": "151731" },
+      { "idCampo": "490", "valor": "Columna vertebral." },
+      { "idCampo": "723", "valor": "152338" },
+      { "idCampo": "727", "valor": "152429" },
+      { "idCampo": "56", "valor": "346" },
+      { "idCampo": "492", "valor": "Desgaste" },
+      { "idCampo": "63", "valor": "396" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [
+      { "idCampo": "66", "valor": "1121" },
+      { "idCampo": "67", "valor": "1136" },
+      { "idCampo": "68", "valor": "150043" },
+      { "idCampo": "69", "valor": "67696" },
+      { "idCampo": "70", "valor": "421" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Dimensiones",
+    "campos": [
+      { "idCampo": "49", "valor": "3.1 / 2.9 / 3.1 / 2.7 / 2.6" },
+      { "idCampo": "53", "valor": "0.9 / 1.0 " }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Observaciones",
+    "campos": [{ "idCampo": "473", "valor": "Piezas completas." }],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      { "idCampo": "74", "valor": "432" },
+      { "idCampo": "474", "valor": "151721" },
+      {
+        "idCampo": "127",
+        "valor": "Secretaria de Cultura del Estado de México "
+      }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Objetos digitales",
+    "campos": [],
+    "archivos": ["uploads/regFiles/REG16-1596571831.69161596572290.85544.jpeg"]
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [
+      { "idCampo": "80", "valor": "Ramiro Acevedo Acevedo " },
+      { "idCampo": "81", "valor": "Ramiro Acevedo Acevedo " }
+    ],
+    "archivos": ""
+  }
+]

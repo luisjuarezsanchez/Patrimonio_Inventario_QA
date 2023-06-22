@@ -1,0 +1,79 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Arqueológico" },
+      { "idCampo": "3", "valor": "A-51972" },
+      { "idCampo": "4", "valor": "30" },
+      { "idCampo": "5", "valor": "58" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [
+      { "idCampo": "8", "valor": "108" },
+      { "idCampo": "9", "valor": "114" },
+      { "idCampo": "471", "valor": "Bezote de  obsidiana color negra.  " },
+      { "idCampo": "746", "valor": "BEZOTE " }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Tipo de objeto",
+    "campos": [
+      { "idCampo": "740", "valor": "152797" },
+      { "idCampo": "734", "valor": "152669" },
+      { "idCampo": "56", "valor": "344" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [
+      { "idCampo": "66", "valor": "1121" },
+      { "idCampo": "67", "valor": "1136" },
+      { "idCampo": "68", "valor": "150118" },
+      { "idCampo": "69", "valor": "72408" },
+      { "idCampo": "70", "valor": "421" },
+      { "idCampo": "71", "valor": "Teotenango" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Dimensiones",
+    "campos": [{ "idCampo": "50", "valor": "1.3 cm" }],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Observaciones",
+    "campos": [
+      { "idCampo": "104", "valor": "Pieza completa de obsidiana  color negro." }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      { "idCampo": "124", "valor": "Piezas completas    " },
+      { "idCampo": "74", "valor": "432" },
+      { "idCampo": "76", "valor": "436" },
+      { "idCampo": "474", "valor": "151721" },
+      { "idCampo": "127", "valor": "Museo Doc. Román Piña Chan " }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Objetos digitales",
+    "campos": [],
+    "archivos": ["uploads/regFiles/REG16-1620934382.81651620934871.28674.jpeg"]
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [
+      { "idCampo": "80", "valor": "CARLOS FUENTES HERNÁNDEZ" },
+      { "idCampo": "81", "valor": "ANTROP. CARLOS FUENTES" }
+    ],
+    "archivos": ""
+  }
+]

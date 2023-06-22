@@ -1,0 +1,61 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Antigüedades" },
+      { "idCampo": "3", "valor": "206-025106" },
+      { "idCampo": "4", "valor": "34" },
+      { "idCampo": "5", "valor": "66" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Datos de identificación general",
+    "campos": [
+      { "idCampo": "98", "valor": "152152" },
+      { "idCampo": "8", "valor": "90" },
+      {
+        "idCampo": "471",
+        "valor": "Antigüedades - billetera portabilletes - plata con imagen de la virgen."
+      }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Características del objeto",
+    "campos": [
+      { "idCampo": "437", "valor": "1080" },
+      { "idCampo": "654", "valor": "Antigüedad" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [
+      { "idCampo": "66", "valor": "1121" },
+      { "idCampo": "67", "valor": "1136" },
+      { "idCampo": "68", "valor": "150047" },
+      { "idCampo": "69", "valor": "67941" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      { "idCampo": "458", "valor": "1115" },
+      { "idCampo": "460", "valor": "1120" },
+      { "idCampo": "474", "valor": "151721" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Carga de objetos digitales",
+    "campos": [],
+    "archivos": ["uploads/regFiles/REG14-1586043848.3161586043974.21614.jpeg"]
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [{ "idCampo": "462", "valor": "Ana María de la Cruz Amaro" }],
+    "archivos": ""
+  }
+]

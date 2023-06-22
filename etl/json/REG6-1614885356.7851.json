@@ -1,0 +1,57 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Virreinato" },
+      { "idCampo": "3", "valor": "A-35513" },
+      { "idCampo": "4", "valor": "41" },
+      { "idCampo": "5", "valor": "66" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificación general",
+    "campos": [
+      { "idCampo": "145", "valor": "604" },
+      { "idCampo": "8", "valor": "113" },
+      { "idCampo": "432", "valor": "152156" },
+      { "idCampo": "471", "valor": "Ollita de barro moldeado a mano." },
+      { "idCampo": "152", "valor": "Ollita" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Tipo de obra",
+    "campos": [
+      { "idCampo": "132", "valor": "151743" },
+      { "idCampo": "573", "valor": "Olla" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Procedencia",
+    "campos": [{ "idCampo": "66", "valor": "1121" }],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Dimensiones",
+    "campos": [
+      { "idCampo": "160", "valor": "6cm" },
+      { "idCampo": "162", "valor": "8cm" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Conservación",
+    "campos": [
+      { "idCampo": "172", "valor": "617" },
+      { "idCampo": "474", "valor": "151721" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Registro",
+    "campos": [{ "idCampo": "187", "valor": "Claudia Montiel" }],
+    "archivos": ""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "nombreSeccion": "Campos obligatorios",
+    "campos": [
+      { "idCampo": "2", "valor": "Arqueológico" },
+      { "idCampo": "4", "valor": "46" },
+      { "idCampo": "5", "valor": "75" }
+    ],
+    "archivos": ""
+  },
+  {
+    "nombreSeccion": "Identificacón general",
+    "campos": [
+      { "idCampo": "8", "valor": "101" },
+      { "idCampo": "9", "valor": "114" }
+    ],
+    "archivos": ""
+  },
+  { "nombreSeccion": "Objetos digitales", "campos": [], "archivos": [""] }
+]
